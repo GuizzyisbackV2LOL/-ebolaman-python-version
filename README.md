@@ -21,3 +21,7 @@ Run the command dotnet run to compile and execute the code.
 
 To run the C# code, you'll need the .NET SDK installed on your system. The .NET SDK includes everything you need to build and run C# applications. You can download the .NET SDK from the official .NET website: https://dotnet.microsoft.com/download
 
+
+
+
+this just a copy bin for the people coming from https://www.youtube.com/@ebolaman_ newest video and want to copy the code please again use this for fun not for harmful stuff thanks.
