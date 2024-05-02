@@ -25,3 +25,6 @@ To run the C# code, you'll need the .NET SDK installed on your system. The .NET 
 
 
 this just a copy bin for the people coming from https://www.youtube.com/@ebolaman_ newest video and want to copy the code please again use this for fun not for harmful stuff thanks.
+
+
+![image](https://github.com/GuizzyisbackV2LOL/-ebolaman-python-version/assets/90070644/91c65464-4597-4923-902d-a8cf24dd61b6)
